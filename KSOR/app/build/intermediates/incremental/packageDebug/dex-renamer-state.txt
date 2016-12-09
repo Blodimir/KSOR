@@ -1,0 +1,7 @@
+#Fri Dec 09 15:55:31 MSK 2016
+base.0=/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9629d9a54f6b05a1250d6807150329fabc869761
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3672bf948872e06d5ee039704567016c0247d63/classes.dex
+base.1=/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3672bf948872e06d5ee039704567016c0247d63
+file.0=/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9629d9a54f6b05a1250d6807150329fabc869761/classes.dex

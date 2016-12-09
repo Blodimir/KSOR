@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_1fb5a4c5665460033ea088c537d84e99825f46e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_da5bb62f06c6da189ddf2d621369496051bd9423/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_68f78e1fdfb196f07a200201cc5aebacef0ad699/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_469ee541224152219545a2fdbd9f88a642f1522f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_78332416ffc87c8729e862243ec862c2643381dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_13b62c880580de53445d642fd2a7ed94a3342e0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_20e3c27208fbefc1390de148b84e2d4d9725a781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_df850361611c2d57e3b796dfc65d1f580c55552c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_80bf9d6158fd4ce4d4130d704d389bb1249cda76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a268de1856b5406ba926946ba3e99c20a14f550d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_927e1b24841d324ccf6f7a92be568e01c02a70c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30913e69645bfe17de6708d55777f706d32435e6">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9629d9a54f6b05a1250d6807150329fabc869761/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d1cef67f32f210eca344babbfff3350d0c262cf">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d3672bf948872e06d5ee039704567016c0247d63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6004612bfdb67c28fc2742762b15e1d0e9290e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_e2dd343051630dcf0e1db5012316a9da16fe6058/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_9110498a6c3d59c90238f3c194151fd97f414219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbook/XOR/KSOR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/macbook/XOR/KSOR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e4d411bf2b475c8fa19817729df3e9f9371446a8/classes.dex" />
+    </item>
+
+</items>
