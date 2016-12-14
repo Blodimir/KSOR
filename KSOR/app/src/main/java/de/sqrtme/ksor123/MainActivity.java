@@ -20,6 +20,22 @@ import java.io.IOException;
 import java.io.FileOutputStream;
 import java.io.FileInputStream;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.os.Environment;
+import android.util.Log;
+import android.view.View;
+
 public class MainActivity extends AppCompatActivity {
 
     FileInputStream fin;
@@ -32,7 +48,30 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void saveText(View view){
+        try {
+            EditText textBox = (EditText) findViewById(R.id.editText);
+            String text = textBox.getText().toString();
+            // отрываем поток для записи
+            BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(
+                    openFileOutput("KSOR11.txt", MODE_APPEND)));
+            // пишем данные
+            bw.write(text);
+            // закрываем поток
+            bw.close();
+//            Log.d(LOG_TAG, "Файл записан");
+            Toast.makeText(this, "Файл сохранен", Toast.LENGTH_SHORT).show();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
+
+
+
+
+
+/*
         try {
             EditText textBox = (EditText) findViewById(R.id.editText);
             String text = textBox.getText().toString();
@@ -54,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
 
                 Toast.makeText(this, ex.getMessage(), Toast.LENGTH_SHORT).show();
             }
-        }
+        }*/
     }
     // открытие файла
     public void openText(View view){
